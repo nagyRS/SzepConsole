@@ -1,0 +1,7 @@
+C:\Users\localadmin\source\repos\SzepConsol\SzepConsol\bin\Debug\SzepConsol.exe.config
+C:\Users\localadmin\source\repos\SzepConsol\SzepConsol\bin\Debug\SzepConsol.exe
+C:\Users\localadmin\source\repos\SzepConsol\SzepConsol\bin\Debug\SzepConsol.pdb
+C:\Users\localadmin\source\repos\SzepConsol\SzepConsol\obj\Debug\SzepConsol.csprojAssemblyReference.cache
+C:\Users\localadmin\source\repos\SzepConsol\SzepConsol\obj\Debug\SzepConsol.csproj.CoreCompileInputs.cache
+C:\Users\localadmin\source\repos\SzepConsol\SzepConsol\obj\Debug\SzepConsol.exe
+C:\Users\localadmin\source\repos\SzepConsol\SzepConsol\obj\Debug\SzepConsol.pdb
